@@ -20,7 +20,6 @@ Regression_Models_Projects/**/models/*.joblib
 # Temporary / output files
 *.log
 *.tmp
-*.csv
 *.npy
 *.npz
 *.json
